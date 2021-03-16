@@ -1,0 +1,1 @@
+F:\Programming\Juce\LearnJuce\SynthFramework\Builds\VisualStudio2019\x64\Release\Standalone Plugin\SynthFramework.exe

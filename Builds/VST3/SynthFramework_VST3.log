@@ -1,0 +1,6 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Creating library F:\Programming\Juce\LearnJuce\SynthFramework\Builds\VisualStudio2019\x64\Release\VST3\SynthFramework.lib and object F:\Programming\Juce\LearnJuce\SynthFramework\Builds\VisualStudio2019\x64\Release\VST3\SynthFramework.exp
+  Generating code
+F:\Programming\Juce\LearnJuce\SynthFramework\Source\PluginProcessor.cpp(162): warning C4706: assignment within conditional expression
+  Finished generating code
+  SynthFramework_VST3.vcxproj -> F:\Programming\Juce\LearnJuce\SynthFramework\Builds\VisualStudio2019\x64\Release\VST3\SynthFramework.vst3

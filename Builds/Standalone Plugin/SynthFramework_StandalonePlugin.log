@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_Standalone.cpp
+  Generating code
+F:\Programming\Juce\LearnJuce\SynthFramework\Source\PluginProcessor.cpp(162): warning C4706: assignment within conditional expression
+  Finished generating code
+  SynthFramework_StandalonePlugin.vcxproj -> F:\Programming\Juce\LearnJuce\SynthFramework\Builds\VisualStudio2019\x64\Release\Standalone Plugin\SynthFramework.exe
